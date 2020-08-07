@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/andreendo/cy-example01#readme",
   "devDependencies": {
-    "cypress": "^4.12.0"
+    "cypress": "4.12.0"
   }
 }
